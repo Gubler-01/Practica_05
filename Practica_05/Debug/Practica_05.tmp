@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\Debug\Practica_05.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica_05.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica_05.map</FILE>
+  <FILE>Practica_05.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\main.asm</FILE><LINE>18</LINE></inicio>
+  <ciclo><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\main.asm</FILE><LINE>25</LINE></ciclo>
+  <loop><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\main.asm</FILE><LINE>37</LINE></loop>
+  <maximo><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\main.asm</FILE><LINE>38</LINE></maximo>
+  <retraso><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\main.asm</FILE><LINE>64</LINE></retraso>
+  <minimo><FILE>C:\Users\guble\Documents\L-Interfaz\Practica_05\Practica_05\main.asm</FILE><LINE>50</LINE></minimo>
+ </LABELS>
+</ASSEMBLER_INFO>
